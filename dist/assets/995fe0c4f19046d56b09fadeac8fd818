@@ -1,0 +1,9 @@
+{
+  "name": "rnupdate",
+  "displayName": "rnupdate",
+  "expo": {
+    "name": "rnupdate",
+    "slug": "rnupdate",
+    "sdkVersion": "40.0.0"
+  }
+}
